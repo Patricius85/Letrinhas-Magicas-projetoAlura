@@ -27,26 +27,3 @@ O Letrinhas Mágicas é um portal para um universo de histórias e descobertas, 
 * **Interação Personalizada:** Nosso assistente está sempre pronto para ouvir e responder de forma atenciosa e adaptada à criança.
 * **Foco no Desenvolvimento:** Ajudamos a desenvolver habilidades de leitura, escrita, pensamento crítico e imaginação de forma lúdica.
 * **Celebração de Conquistas:** Reconhecemos e celebramos cada passo da jornada de aprendizado, construindo confiança e motivação.
-
-**Como Começar a Aventura:**
-
-Para embarcar nesta jornada mágica, siga estes passos:
-
-1.  **Prepare sua Varinha Mágica (API Key):** Certifique-se de ter sua API Key do Google AI Studio configurada no ambiente onde o Letrinhas Mágicas será executado.
-2.  **Abra o Portal (Execute o Código):** Execute o código Python (desenvolvido no Google Colab) que utiliza o modelo Gemini para dar vida ao nosso amigo imaginário.
-3.  **Deixe a Magia Acontecer:** Interaja com o Letrinhas Mágicas! Faça perguntas, compartilhe histórias e deixe a imaginação voar!
-
-**Tecnologias Mágicas Utilizadas:**
-
-* **Google AI Studio:** O caldeirão onde a magia da inteligência artificial é criada.
-* **Google Colab:** Nosso laboratório secreto para dar vida ao código.
-* **SDK do Gemini:** A varinha mágica que nos permite conversar com o mundo das letras.
-* **Python:** A linguagem secreta que entendemos para criar essa experiência mágica.
-
-**Contribuições Mágicas:**
-
-Se você também acredita na magia do aprendizado divertido e tem ideias para tornar o Letrinhas Mágicas ainda mais incrível, suas contribuições são muito bem-vindas! Compartilhe suas sugestões, ideias de novas funcionalidades ou até mesmo poções mágicas de código! 😉
-
-**Junte-se à Aventura!**
-
-O mundo das letras está esperando para ser explorado! Com o Letrinhas Mágicas, cada palavra é uma descoberta e cada história é uma nova aventura. Vamos juntos tornar o aprendizado uma experiência mágica e inesquecível! ✨📚✍️
