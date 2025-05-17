@@ -4,6 +4,8 @@
 
 Este projeto nasceu da imaginação de um amigo imaginário super divertido e de um assistente ultraespecial, com uma missão secreta: guiar crianças de 6 a 10 anos na incrível jornada de aprender a ler e escrever! 🌟
 
+Essa ideia surgiu pois minha enteada que tem 7 anos, quando ela começou a aprender a ler seu desenvolvimento foi muito rápido e na escola ela está bem a frente de muitas crianças, então pensei no Letrinhas Mágicas como uma forma de estimular que ela continue aprendendo e também instigar a sua criatividade, para que seja algo divertido.
+
 **Nossa Missão Secreta:**
 
 Despertar a criatividade e a curiosidade pelo mundo mágico das letras, transformando cada aprendizado em uma aventura eletrizante e inesquecível! ✨
